@@ -1,23 +1,23 @@
-#***QUIZ DE GEOGRAFIA - README***
+***QUIZ DE GEOGRAFIA - README***
 
-##O Quiz de Geografia é um jogo interativo onde o jogador pode escolher entre 3 modalidades/durações, registrar seu nome e responder perguntas, vendo seu resultado após cada jogo e comparando sua pontuação no ranking final.
+O Quiz de Geografia é um jogo interativo onde o jogador pode escolher entre 3 modalidades/durações, registrar seu nome e responder perguntas, vendo seu resultado após cada jogo e comparando sua pontuação no ranking final.
 
-##Código programado por Elisa M. Bloch, Fernanda S. Formigoni e Isabely Saito
+Código programado por Elisa M. Bloch, Fernanda S. Formigoni e Isabely Saito
 
-##Execução: 
+Execução: 
 
-###O cógio pode ser executado em compiladores online ou editores instalados. Recomendação: Google Colab
+O cógio pode ser executado em compiladores online ou editores instalados. Recomendação: Google Colab
 
-##Aviso: o código usa as bibliotecas MATH, OS e PANDAS
+Aviso: o código usa as bibliotecas MATH, OS e PANDAS
 
-###Pandas: !pip install pandas
+Pandas: !pip install pandas
 
-##Instruções de uso: siga as regras do início do quiz para preencher corretamente todos os campos de interação. Não é necessário digitar todas as respostas em CAPSLOCK
+Instruções de uso: siga as regras do início do quiz para preencher corretamente todos os campos de interação. Não é necessário digitar todas as respostas em CAPSLOCK
 
-##Caso encontre algum erro, contatar:
+Caso encontre algum erro, contatar:
 
-###elisamb@usp.br
+elisamb@usp.br
 
-###fernanda.formigoni@usp.br
+fernanda.formigoni@usp.br
 
-###isabelysaito@usp.br
+isabelysaito@usp.br
